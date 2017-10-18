@@ -7,7 +7,7 @@ published: True
 ---
 
 ## Daily Learning
-### Today's tring:
+### Today's trying:
 - github repository
 - github workflow
 - github page
