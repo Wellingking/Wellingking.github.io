@@ -1,4 +1,10 @@
 ---
+layout: post
+title:  "try prose!"
+date:   2017-10-18 14:44:18
+categories: post
+---
+---
 published: false
 ---
 ## Daily Learning
