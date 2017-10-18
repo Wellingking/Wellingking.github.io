@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Daily-Learning
-date:   2017-10-18 15:22:17+00:00
+title: Daily-Learning
+date: '2017-10-18 15:22:17 00:00'
 categories: post
-published: True
+published: true
 ---
 
 ## Daily Learning
