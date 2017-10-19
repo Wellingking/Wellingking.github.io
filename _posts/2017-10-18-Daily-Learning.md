@@ -18,7 +18,7 @@ And:
 
 And also:
 - [x] Rhinoceros (*CAID, Nurbs*)
-- [] C4D (*CG, Polygon*)
+- [ ] C4D (*CG, Polygon*)
 
 [Tools](https://pic4.zhimg.com/50/v2-93ff87c3bc30542ec4222b6bd4161613_hd.jpg)
 
